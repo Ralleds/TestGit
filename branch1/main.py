@@ -11,7 +11,7 @@ def calculation(a, b):
             print(i+j, end=' ')
         print()
 
-
+# Hello from JAVASCRIPT
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     a, b = int(input()), int(input())

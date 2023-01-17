@@ -14,7 +14,7 @@ def calculation(a, b):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print("Choose the lenght of matrix")
+    print("Choose the lenght and height of matrix")
     a, b = int(input()), int(input())
     calculation(a, b)
 
